@@ -1,4 +1,4 @@
-package com.teguholica.samplerecyclerview;
+package com.teguholica.samplerecyclerviewandroid;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.teguholica.samplerecyclerview.models.Post;
+import com.teguholica.samplerecyclerviewandroid.models.Post;
 
 import java.util.ArrayList;
 

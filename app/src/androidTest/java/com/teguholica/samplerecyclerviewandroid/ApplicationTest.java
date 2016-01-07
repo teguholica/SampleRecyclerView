@@ -1,4 +1,4 @@
-package com.teguholica.samplerecyclerview;
+package com.teguholica.samplerecyclerviewandroid;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

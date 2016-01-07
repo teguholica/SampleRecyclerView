@@ -1,4 +1,4 @@
-package com.teguholica.samplerecyclerview;
+package com.teguholica.samplerecyclerviewandroid;
 
 import org.junit.Test;
 

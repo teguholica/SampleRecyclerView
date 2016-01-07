@@ -1,4 +1,4 @@
-package com.teguholica.samplerecyclerview.models;
+package com.teguholica.samplerecyclerviewandroid.models;
 
 public class Post {
 
